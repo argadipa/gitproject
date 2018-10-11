@@ -1,0 +1,5 @@
+.DS_Store
+secrets.txt
+
+#this is comments
+# *.txt use wildcard to list all files with same extensions at a time
